@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "bane.eu.org",
+  "Id": "3ae2e448-2c34-417d-87b5-9d5b424bea71"
+}
